@@ -14,7 +14,6 @@ This is a simple Python game that generates a random score between 1 and 1000 ea
 ## Installation
 To run this game, ensure you have Python installed on your machine. Clone the repository to your local machine:
 
-```bash
 git clone https://github.com/Anurag1101/python_guess_game.git
 
 
