@@ -16,8 +16,7 @@ To run this game, ensure you have Python installed on your machine. Clone the re
 
 git clone https://github.com/Anurag1101/python_guess_game.git
 
-
-How to Play
+**How to Play**
 
 Upon starting the game, you will be prompted to guess a randomly generated score between 1 and 1000.
 
@@ -27,11 +26,11 @@ The game will inform you whether your guess is too high, too low, or correct.
 
 If you achieve a new high score, it will be recorded for future sessions.
 
-Contribution
+**Contribution**
 
 Contributions to enhance the game are welcome! If you have ideas for new features, improvements, or bug fixes, feel free to submit issues, feature requests, or pull requests.
 
-Future Enhancements
+**Future Enhancements**
 
 Implement a graphical user interface (GUI) for a more interactive experience.
 
