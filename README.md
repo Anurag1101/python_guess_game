@@ -30,15 +30,14 @@ Welcome to the **Python Guess Game!** This fun game challenges you to beat the h
 
     cd python_guess_game
 
-Ensure you have `Python 3.x` installed.
+### Ensure you have `Python 3.x` installed.
 
-Usage
-Run the game with the following command:
+## Usage:
 
-bash
-Copy code
-python guess_game.py
-Follow the on-screen prompts to play the game. You’ll see your score, and if it's higher than the high score, it will be saved as the new high score.
+1. Run the game with the following command: python guess_game.py
+
+2. Follow the on-screen prompts to play the game. You’ll see your score, and if it's higher than the high score, it will be saved as the new high score.
+
 
 How It Works
 Generating a Random Score: The play_game() function generates a score between 1 and 1000 using Python's random module.
