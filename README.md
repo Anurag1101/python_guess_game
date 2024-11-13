@@ -22,15 +22,15 @@ Welcome to the **Python Guess Game!** This fun game challenges you to beat the h
 
 ## Installation
 
-1. ### Clone the repository:
+### Clone the repository:
+   
+   git clone https://github.com/your-username/python_guess_game.git
 
-    git clone https://github.com/your-username/python_guess_game.git
-
-2. ### Navigate to the directory:
+### Navigate to the directory:
 
     cd python_guess_game
 
-3. Ensure you have `Python 3.x` installed.
+Ensure you have `Python 3.x` installed.
 
 Usage
 Run the game with the following command:
