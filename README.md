@@ -41,12 +41,19 @@ Welcome to the **Python Guess Game!** This fun game challenges you to beat the h
 ## How It Works:
 
 1. **Generating a Random Score:**  The `play_game()` function generates a score between 1 and 1000 using Python's `random` module.
+
 2. **Retrieving High Score:**  The `get_high_score()` function reads the high score from `main.txt` if it exists. If the file is missing or contains invalid data, the high score defaults to 0.
+   
 3. **Saving High Score:**  When a new high score is achieved, the `save_high_score()` function updates `main.txt` with the new score.
+  
 4. **Game Loop:**  The `main()` function allows players to replay the game, asking them if they want to play another round or exit.
 
-Future Improvements
-Custom Scoring Range: Allow players to set their preferred range for random scores.
-Leaderboard: Implement a leaderboard to display multiple high scores.
-User Profiles: Allow different users to maintain separate high scores.
-Enjoy playing the Python Guess Game and see if you can beat the high score!
+## Future Improvements:
+
+- **Custom Scoring Range:**  Allow players to set their preferred range for `random` scores.
+  
+- **Leaderboard:**  Implement a leaderboard to display multiple high scores.
+
+- **User Profiles:**  Allow different users to maintain separate high scores.
+
+# Enjoy playing the Python Guess Game and see if you can beat the high score!
