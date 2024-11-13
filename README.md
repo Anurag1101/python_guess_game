@@ -10,11 +10,13 @@ Welcome to the **Python Guess Game!** This fun game challenges you to beat the h
 - ### How It Works
 - ### Future Improvements
 
-Features
-Random Score Generation: Each round, the game generates a random score between 1 and 1000.
-High Score Tracking: The highest score is saved in main.txt and updated whenever a new high score is achieved.
-Replay Option: After each round, players can choose to play again or exit the game.
-File Handling & Error Handling: The game handles file reading and writing operations gracefully, ensuring a seamless experience.
+## Features:
+
+- **Random Score Generation:**  Each round, the game generates a random score between 1 and 1000.
+- **High Score Tracking:**  The highest score is saved in main.txt and updated whenever a new high score is achieved.
+- **Replay Option:**  After each round, players can choose to play again or exit the game.
+- **File Handling & Error Handling:**  The game handles file reading and writing operations gracefully, ensuring a seamless experience.
+
 Installation
 Clone the repository:
 
