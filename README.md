@@ -24,7 +24,7 @@ Welcome to the **Python Guess Game!** This fun game challenges you to beat the h
 
 ### Clone the repository:
    
-   git clone https://github.com/your-username/python_guess_game.git
+    git clone https://github.com/your-username/python_guess_game.git
 
 ### Navigate to the directory:
 
