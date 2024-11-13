@@ -20,18 +20,17 @@ Welcome to the **Python Guess Game!** This fun game challenges you to beat the h
   
 - **File Handling & Error Handling:**  The game handles file reading and writing operations gracefully, ensuring a seamless experience.
 
-Installation
-Clone the repository:
+## Installation
 
-bash
-Copy code
-git clone https://github.com/your-username/python_guess_game.git
-Navigate to the directory:
+1. ### Clone the repository:
 
-bash
-Copy code
-cd python_guess_game
-Ensure you have Python 3.x installed.
+    git clone https://github.com/your-username/python_guess_game.git
+
+2. ### Navigate to the directory:
+
+    cd python_guess_game
+
+3. Ensure you have `Python 3.x` installed.
 
 Usage
 Run the game with the following command:
