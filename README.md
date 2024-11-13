@@ -4,7 +4,7 @@ Welcome to the **Python Guess Game!** This fun game challenges you to beat the h
 
 ## Table of Contents:
 
-- Features
+- **Features**
 - Installation
 - Usage
 - How It Works
