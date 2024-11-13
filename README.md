@@ -56,4 +56,4 @@ Welcome to the **Python Guess Game!** This fun game challenges you to beat the h
 
 - **User Profiles:**  Allow different users to maintain separate high scores.
 
-# Enjoy playing the Python Guess Game and see if you can beat the high score!
+## Enjoy playing the Python Guess Game and see if you can beat the high score!
