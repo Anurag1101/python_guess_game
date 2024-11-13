@@ -1,12 +1,15 @@
-Python Guess Game
-Welcome to the Python Guess Game! This fun game challenges you to beat the high score by generating a random score each time you play. If you score higher than the current high score, you set a new record!
+# Python Guess Game
 
-Table of Contents
-Features
-Installation
-Usage
-How It Works
-Future Improvements
+Welcome to the **Python Guess Game!** This fun game challenges you to beat the high score by generating a random score each time you play. If you score higher than the current high score, you set a new `record!`
+
+## Table of Contents:
+
+- Features
+- Installation
+- Usage
+- How It Works
+- Future Improvements
+
 Features
 Random Score Generation: Each round, the game generates a random score between 1 and 1000.
 High Score Tracking: The highest score is saved in main.txt and updated whenever a new high score is achieved.
